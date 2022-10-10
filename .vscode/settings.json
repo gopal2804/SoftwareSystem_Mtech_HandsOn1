@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sem.h": "c",
+        "x86intrin.h": "c",
+        "unistd.h": "c",
+        "types.h": "c"
+    }
+}
